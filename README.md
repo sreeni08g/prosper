@@ -4,7 +4,7 @@ Things to be noted:
 
 1. Use a linux based operating system. If you're using windows, download GitHub for windows.
 2. Adhere to this [style guide](http://geosoft.no/development/cppstyle.html).
-3. [Here](https://try.github.io/levels/1/challenges/1)'s an excellent tutorial on git.
+3. [Here](https://try.github.io/)'s an excellent tutorial on git.
 3. If you have a problem, Google it.
 
 ##Instructions:
